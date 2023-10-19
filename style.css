@@ -1,0 +1,15 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background: #333;
+    color: #eee;
+    font-size: 32px;
+}
+
+a {
+    color: inherit;
+}
